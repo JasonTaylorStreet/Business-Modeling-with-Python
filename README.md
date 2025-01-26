@@ -1,1 +1,2 @@
 # Business-Modeling-with-Python
+This course covers the use of the Python programming language in the context of modeling business problems. Particular attention is given to learning the power and flexibility of using Python in business settings commonly encountered. The mechanics, syntax and semantics of the language is emphasized. The course includes in-depth coverage of Python data types, control flow, functions, packages, data wrangling, data visualization and matrix manipulation.
